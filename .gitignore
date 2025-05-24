@@ -1,11 +1,10 @@
-# Ignore everything by default
-*
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# But allow Markdown files
-!*.md
-
-# Allow .gitignore itself
-!.gitignore
-
-# Allow placeholder files like .keep
-!.keep*
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.log
