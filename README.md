@@ -1,4 +1,7 @@
 # 📝 Remo Tessari — Publishing Repository
+[![License](https://img.shields.io/badge/license-CC--BY--NC--ND%204.0-blue)](/LICENSE.md)
+[![Ravenville](https://img.shields.io/badge/Ravenville-red.svg)](https://www.ravenville.io/)
+[![Remo Tessari](https://img.shields.io/badge/Remo-Tessari-red.svg)](https://www.remotessari.com/)
 
 This repository holds the public-facing voice of Remo Tessari.
 
@@ -25,4 +28,4 @@ All content here is text-only — source images, thumbnails, and videos are stor
 
 ## 🧭 Related Repositories
 
-- 🔥 `flame-architecture` — The personal canon, philosophy, and mythic foundation
+- 🔥 [flame-architecture](https://github.com/Ravenville-io/flame-architecture) — The personal canon, philosophy, and mythic foundation
